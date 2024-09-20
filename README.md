@@ -1,1 +1,1 @@
-# Stellar_Ai
+# code-prep-gemini-ai-course
